@@ -37,6 +37,7 @@ body {
 
 .navbar-brand {
     font-size: 30px;
+    text-decoration: underline;
 }
 
 #icon {
@@ -70,6 +71,3 @@ body {
     border-radius: 15px;
 }
 
-#contactform {
-    
-}
