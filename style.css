@@ -9,7 +9,8 @@ body {
     width: 100%;
     margin-left: 0;
     margin-right: 0; 
-    margin-bottom: 0;  
+    margin-bottom: 0;
+      
 }
 
 #copyright {
@@ -27,7 +28,7 @@ body {
 }
 
 
-/* navbar */
+/* global navbar */
 
 .navbar {
     background-color: rgb(55, 81, 88);
@@ -57,5 +58,18 @@ body {
 #hometron img {
     height: 80%;
     width: 90%;
+    
+}
+
+/* contact page */
+
+#contactcol {
+    background-color: rgb(179, 179, 173);
+    margin: 25%;
+    padding: 40px 30px;
+    border-radius: 15px;
+}
+
+#contactform {
     
 }
