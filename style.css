@@ -81,3 +81,17 @@ body {
     padding: 40px 10px;
     border-radius: 10px;
 }
+
+/* portfolio page */
+
+#picwell {
+    background-color: rgb(187, 187, 187);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#picwell img{
+    margin-top: 20px;
+}
