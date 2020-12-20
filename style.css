@@ -25,3 +25,14 @@ body {
 #hometron {
     margin-top: 50px;
 }
+
+#hometron .jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+#hometron img {
+    height: 80%;
+    width: 90%;
+    
+}
