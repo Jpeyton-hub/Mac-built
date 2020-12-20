@@ -1,8 +1,31 @@
 /* global styles */
 body {
     background-image: url(images/woodgrainbg.jpg);
-
 }
+
+#thefooter {
+    background-color: rgb(55, 81, 88);
+    height: 50px;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0; 
+    margin-bottom: 0;  
+}
+
+#copyright {
+    padding-top: 10px;
+    padding-left: 10px; 
+    float: left;
+    color: azure;
+}
+
+#footmsg {
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    color: azure;
+}
+
 
 /* navbar */
 
