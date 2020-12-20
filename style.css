@@ -71,3 +71,13 @@ body {
     border-radius: 15px;
 }
 
+
+/* about page */
+
+#aboutJ {
+    background-color: rgb(179, 179, 173);
+    margin-top: 25%;
+    margin-bottom: 25%;
+    padding: 40px 10px;
+    border-radius: 10px;
+}
