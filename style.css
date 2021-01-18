@@ -120,6 +120,19 @@ body {
    border: solid black 1px;
 }
 
+.itemtitle {
+    text-decoration: underline;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    margin-top: 10px;
+}
+
+.item-text-div {
+    height: 100%;
+    padding: auto;
+    
+    
+}
 
 .item-text {
     margin: auto;
@@ -132,14 +145,15 @@ body {
 .addBtn {
     height: 40px;
     width: 70%;
+    border-radius: 20px;
     margin: auto;
-    transition: .4s;
-    /* background-color: rgb(75, 104, 8); */
+    transition: .3s;
+    
 }
 
 .addBtn:hover {
     letter-spacing: 3px;
-    transition: .4s;
+    transition: .3s;
 }
 
 
