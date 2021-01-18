@@ -107,7 +107,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 5px;
-    background-color: rgb(182, 181, 179);
+    background-color:  rgb(201, 169, 29);
     border-radius: 10px;
     height: 150px;
     margin: -20px auto;
@@ -117,24 +117,28 @@ body {
 .item-image {
    width: 80%;
    margin: auto;
+   border: solid black 1px;
 }
 
 
 .item-text {
     margin: auto;
-    font-size: 12px;
+    font-size: 11px;
     word-spacing: 4px;
+    font-weight: bold;
+    
 }
 
 .addBtn {
     height: 40px;
-    width: 80%;
+    width: 70%;
     margin: auto;
     transition: .4s;
+    /* background-color: rgb(75, 104, 8); */
 }
 
 .addBtn:hover {
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     transition: .4s;
 }
 
