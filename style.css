@@ -95,3 +95,48 @@ body {
 #picwell img{
     margin-top: 20px;
 }
+
+/* storefront styles */
+
+#showcase {
+    margin: 5%;
+}
+
+.item {
+    border: black solid 1px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 5px;
+    background-color: rgb(182, 181, 179);
+    border-radius: 10px;
+    height: 150px;
+    margin: -20px auto;
+}
+
+
+.item-image {
+   width: 80%;
+   margin: auto;
+}
+
+
+.item-text {
+    margin: auto;
+    font-size: 12px;
+    word-spacing: 4px;
+}
+
+.addBtn {
+    height: 40px;
+    width: 80%;
+    margin: auto;
+    transition: .4s;
+}
+
+.addBtn:hover {
+    letter-spacing: 4px;
+    transition: .4s;
+}
+
+
+
